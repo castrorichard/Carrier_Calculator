@@ -19,7 +19,7 @@ variável da conta, garantindo uma sintaxe mais limpa e eficiente.
 ## 📸 Demonstração de Uso
 Abaixo está o registro da execução do programa, mostrando o cálculo de um uso de 103 minutos (3 minutos excedentes):
 
-![Captura da execução no console](imagem1.png)
+![Captura da execução no console](Imagem1.png)
 
 ---
 *Desenvolvido como parte dos meus estudos e práticas contínuas em desenvolvimento de software e backend.*
